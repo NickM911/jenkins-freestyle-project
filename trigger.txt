@@ -1,1 +1,1 @@
-Triggered by webhook. Committing this should trigger new Jenkins build
+Triggered by webhook. Committing this should trigger new Jenkins build.
